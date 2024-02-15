@@ -1,2 +1,2 @@
-# aboutME
-CSUSB comp sci 4500 assignment 1
+# assignment for Platform Computing 4500 at CSUSB
+By Caleb Daguerressar
