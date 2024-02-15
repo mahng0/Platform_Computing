@@ -22,5 +22,5 @@ The following **bonus** features are implemented:
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
-<img src="https://github.com/mahng0/Platform_Computing/blob/main/aboutME_SS1.jpg" width="300" height="300">
+<img src="https://github.com/mahng0/Platform_Computing/blob/main/aboutME_SS1.jpg" width="400" height="400">
 ![alt text](https://github.com/mahng0/Platform_Computing/blob/main/aboutME_SS2.jpg)
