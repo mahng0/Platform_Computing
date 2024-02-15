@@ -22,8 +22,5 @@ The following **bonus** features are implemented:
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
-
-<img src="aboutME_SS1.jpg"title='Showing that there is an image with the use of the header and title fucntion' width='' alt='top half' />
 ![alt text](https://github.com/mahng0/Platform_Computing/blob/main/aboutME_SS1.jpg)
 ![alt text](https://github.com/mahng0/Platform_Computing/blob/main/aboutME_SS2.jpg)
-<img src="aboutME_SS2.jpg"title='the bottom half of the assignment showing the paragraphs and the link to the git hub account' width='' alt='bottom half' />
