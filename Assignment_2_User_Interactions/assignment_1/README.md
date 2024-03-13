@@ -23,9 +23,9 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src=""[Assignment_2_User_Interactions/assignment_1/aboutME_SS1.jpg](https://github.com/mahng0/Platform_Computing/blob/main/Assignment_2_User_Interactions/assignment_1/aboutME_SS1.jpg)""title='Showing that there is an image with the use of the header and title fucntion' width='' alt='top half' />
+<img src="https://github.com/mahng0/Platform_Computing/blob/main/aboutME_SS1.jpg" width="400" height="400">
 
-<img src="C:\Users\caleb\OneDrive\Documents\cse4500\assignment_1\aboutME_SS2.jpg"title='the bottom half of the assignment showing the paragraphs and the link to the git hub account' width='' alt='bottom half' />
+<img src="https://github.com/mahng0/Platform_Computing/blob/main/aboutME_SS2.jpg" width="400" height="400">
 
 
 ## Notes:
