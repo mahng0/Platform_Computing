@@ -23,9 +23,10 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://github.com/mahng0/Platform_Computing/blob/main/Assignment_1_About_Me_Page/aboutME_SS1.jpg"title='Showing that there is an image with the use of the header and title fucntion' width='' alt='top half' />
+<img src="https://github.com/mahng0/Platform_Computing/blob/main/Assignment_1_About_Me_Page/aboutME_SS1.jpg" title="Showing the top half of the assignment with the use of the header and title function" width="" alt="Top Half" />
 
-<img src="https://github.com/mahng0/Platform_Computing/blob/main/Assignment_1_About_Me_Page/aboutME_SS1.jpg"title='the bottom half of the assignment showing the paragraphs and the link to the git hub account' width='' alt='bottom half' />
+<img src="https://github.com/mahng0/Platform_Computing/blob/main/Assignment_1_About_Me_Page/aboutME_SS1.jpg" title="Showing the bottom half of the assignment with paragraphs and a link to the GitHub account" width="" alt="Bottom Half" />
+
 
 
 ## Notes:
