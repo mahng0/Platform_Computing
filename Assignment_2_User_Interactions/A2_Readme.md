@@ -20,14 +20,3 @@ The following **bonus** features are implemented:
 - [ ] Monitors at least 4 metrics (1 pt)
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
-## Screenshot and/or Video Walkthrough
-
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
-
-
-## Notes:
-PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
-<ul>
-  <li>**Example in bold**</li>
-  <li>*Example in italics*</li>
-</ul>
