@@ -8,7 +8,7 @@ Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
 The following **required** features are completed:
 
-- [ ] Organize Github folders (2 pts)
+- [X] Organize Github folders (2 pts)
 - [ ] Create a user with affinity towards keyword(s) and verify that it works (3 pts)
 - [ ] Create a user with affinity towards image(s) and verify that it works (3 pts)
 - [ ] Create a user with affinity towards links and verify that it works (3 pts)
