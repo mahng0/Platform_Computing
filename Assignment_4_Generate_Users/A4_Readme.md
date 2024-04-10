@@ -9,10 +9,10 @@ Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 The following **required** features are completed:
 
 - [X] Organize Github folders (2 pts)
-- [ ] Create a user with affinity towards keyword(s) and verify that it works (3 pts)
-- [ ] Create a user with affinity towards image(s) and verify that it works (3 pts)
-- [ ] Create a user with affinity towards links and verify that it works (3 pts)
-- [ ] Describe a user with unique affinities (1 pt)
+- [X] Create a user with affinity towards keyword(s) and verify that it works (3 pts)
+- [X] Create a user with affinity towards image(s) and verify that it works (3 pts)
+- [X] Create a user with affinity towards links and verify that it works (3 pts)
+- [X] Describe a user with unique affinities (1 pt)
 - [ ] Create a user with unique affinities and verify that it works (3 pts)
 The following **bonus** features are implemented:
 
